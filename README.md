@@ -15,6 +15,7 @@ I just thought nobody has this on github too, so.
 
 This picture gets older all time as you can see.
 ![CyigFDhR](https://github.com/user-attachments/assets/f27607de-2e74-4749-bc61-e37df822f765)
-
+![byJE_VDY](https://github.com/user-attachments/assets/547e8ecb-6e26-4928-b38c-451db3a15788)
+![ZlXs4dzy](https://github.com/user-attachments/assets/85b53237-099f-4c8f-81ff-7a0b43ae2f6a)
 
 Oh i see what is going on. You get the work-stationary and blueprint before there was a questionnaire website?
