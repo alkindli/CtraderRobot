@@ -18,4 +18,4 @@ This picture gets older all time as you can see.
 ![byJE_VDY](https://github.com/user-attachments/assets/547e8ecb-6e26-4928-b38c-451db3a15788)
 ![ZlXs4dzy](https://github.com/user-attachments/assets/85b53237-099f-4c8f-81ff-7a0b43ae2f6a)
 
-Oh i see what is going on. You get the work-stationary and blueprint before there was a questionnaire website?
+Oh i see what is going on. You get the work-stationary and blueprint before there was a questionnaire website? How about a medium story.
