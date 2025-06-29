@@ -15,3 +15,4 @@ If its below the value of sub-pair currency the tightest parameters will work. D
 So if you get into ticks and forget mommentum caving in - you're ripping out a lot of coins.
 If its beyond the value of the sub-pair currency the widest parameters will work. This is on most well-known standard pairs.
 Scrip, scrap its just same standard unless its this movement.
+Using multiplier as a drawer and if spread is just dropping quickly out its not all bullshit.
