@@ -9,6 +9,8 @@ Bitcoin has no entries - it probably is very simple and easy.
 Since 2022
 Finding out maximum price exit.
 Finding out maximum drawdown.
+Finding out times it enters and exits.
+Finding out how many loses and wins. If collidable by win and minimal drawdown you good if the capital is low and loses small.
 Using minimal capital.
 Testing tightest and most wide parameters.
 If its below the value of sub-pair currency the tightest parameters will work. Depends how the currency works with it, most do not.
