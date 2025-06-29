@@ -31,3 +31,6 @@ So if you get into ticks and forget mommentum caving in - you're ripping out a l
 If its beyond the value of the sub-pair currency the widest parameters will work. This is on most well-known standard pairs.
 Scrip, scrap its just same standard unless its this movement.
 Using multiplier as a drawer and if spread is just dropping quickly out its not all bullshit.
+
+
+  Submitted some things somehow now the market is more regulated, but not sure about how INDEXES will absolutely virtually fail.
