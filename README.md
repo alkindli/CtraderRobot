@@ -17,12 +17,14 @@ Thought nobody uploaded this. Seems attendie.
   Finding out maximum drawdown.
   
   Finding out times it enters and exits.
-  
-  Finding out how many loses and wins. If collidable by win and minimal drawdown you good if the capital is low and loses small. Comparing do times match with loss amount or winning amount if they do you don't want to enter it. Anyway the indicator follows price and do what it wants. Something cryptocurrency does not do usually the data is accessed through API.
-  
+
   Using minimal capital.
   
   Testing tightest and most wide parameters.
+  
+  Finding out how many loses and wins. If collidable by win and minimal drawdown you good if the capital is low and loses small. Comparing do times match with loss amount or winning amount if they do you don't want to enter it and how close were these losses to one another (on the drawer) if you prefer and/or finding out maximum loss etc... Anyway the indicator follows price and do what it wants. Something cryptocurrency does not do usually the data is accessed through API.
+
+  Usually you'd just build a "cookdown logic", because it is all scalping otherwise you get to wait on backend code or "market dropping/rising".
   
   If its below the value of sub-pair currency the tightest parameters will work. Depends how the currency works with it, most do not.
 So if you get into ticks and forget mommentum caving in - you're ripping out a lot of coins.
