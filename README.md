@@ -32,5 +32,8 @@ If its beyond the value of the sub-pair currency the widest parameters will work
 Scrip, scrap its just same standard unless its this movement.
 Using multiplier as a drawer and if spread is just dropping quickly out its not all bullshit.
 
+   Blablablaa the leverage will increase your loss on low capital and (decrease value). Looking for a currency exchanged higher/major than its minor/sub-pair. You want the stop loss be consistent with bid you place anyhow. Higher bid, higher stop loss, but to decrease take profit if you bid high amount on high leverage if capital/money/funds allows - should (leave into profit in a tick?). In a minute.
+    
+  Just my own reminder.
 
-  Submitted some things somehow now the market is more regulated, but not sure about how INDEXES will absolutely virtually fail.
+  I had different story though -- Submitted some things somehow now the market is more regulated, but not sure about how INDEXES will absolutely virtually fail. ETORO.COM had huge problem, where developer built false leverage.
