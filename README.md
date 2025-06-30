@@ -46,4 +46,6 @@ Using multiplier as a drawer and if spread is just dropping quickly out its not 
   I had different story though -- Submitted some things somehow now the market is more regulated, but not sure about how INDEXES will absolutely virtually fail. ETORO.COM had huge problem, where developer built false leverage.
 
 
+
 During anytime anyone past had to do it and can do it if they set their mind to it and can stand couple of months on CHATGPT.
+Even if it seems charted you are doing you.
