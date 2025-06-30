@@ -6,42 +6,42 @@
   "Parameters": {
     "EnableAutoTrading": true,
     "VolumeInLots": 5.0,
-    "ConfigTimeFrame": "m1",
+    "ConfigTimeFrame": "m1", or 30 minutes
     "EnableTimeFilter": true,
-    "StartHour": 12,
-    "EndHour": 13,
+    "StartHour": 12, or 1 or 0-24/7
+    "EndHour": 13, or 2 or 23-24/7
     "AllowWeekends": true,
     "EnableNewsFilter": true,
     "NewsBufferMinutes": 1,
     "MaxSpreadPips": 1.0,
-    "MaxSlippage": 9,
+    "MaxSlippage": 9, or 1-3
     "RiskPercent": 0.0,
-    "MaxPositions": 9,
+    "MaxPositions": 0,
     "EnableTrailing": true,
     "TrailingPips": 80.78,
     "BreakEvenTrigger": 2.0,
     "ReverseSignals": true,
     "EnableAtr": true,
-    "AtrPeriod": 2,
-    "AtrSlMult": 29.35,
-    "AtrTpMult": 0.0,
+    "AtrPeriod": 2, or 95
+    "AtrSlMult": 29.35, or 1-5
+    "AtrTpMult": 0.0, should be 0.01 or 0.1 or 1
     "FixedTakeProfitPips": 1.3,
     "EnableEnvelope": true,
-    "EnvPeriod": 3,
+    "EnvPeriod": 3, or 195
     "EnvDeviation": 1.6,
     "RequireAllAgree": false,
-    "MinSecondsBetweenTrades": 365,
+    "MinSecondsBetweenTrades": 365 or 1845
     "EnableBullEngulf": true,
     "EnableBearEngulf": false,
     "EngulfWickFilter": true,
-    "EngulfBodyMinRatio": 0.9,
+    "EngulfBodyMinRatio": 0.9, or whole one
     "EnableSpike": true,
-    "SpikeMult": 1.7,
+    "SpikeMult": 1.7, or 6-7
     "SpikeLookback": 1,
     "MinVolumeThreshold": 0.51,
     "SpikeOnBullOnly": true,
     "SpikeOnBearOnly": false,
     "SpikeWickFilterEnabled": true,
-    "SpikeBodyRatioMin": 0.9
+    "SpikeBodyRatioMin": 0.9 or whole one
   }
 }
