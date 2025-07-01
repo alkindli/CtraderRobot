@@ -159,4 +159,4 @@ Hundred times / 200 percent. Finding average points and considering. Like would 
 During anytime anyone past had to do it and can do it if they set their mind to it and can stand couple of months on CHATGPT.
 Even if it seems charted you are doing you.
 
-So whoever trades on the market does not govern or manage it or change the value, it is that real.
+So whoever trades on the market does not govern or manage it or change the value, it is that real. Unless you are a bookeeper especially on sports that is different.
