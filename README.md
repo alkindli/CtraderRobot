@@ -1,3 +1,5 @@
+Widest spread I have seen is 39.~ at about price of gold per miligram.
+
 There may be an index barrier.
 Thought nobody uploaded this. Seems attendie.
   
