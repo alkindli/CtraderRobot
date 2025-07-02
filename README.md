@@ -165,3 +165,6 @@ Even if it seems charted you are doing you.
 So whoever trades on the market does not govern or manage it or change the value, it is that real. Unless you are a bookeeper especially on sports that is different.
 
 And to figure out what the time on it mean if its just big one.
+
+
+  So up to this I'd say you compare from and up to three years win in compression of how your ctrader robot functions.
