@@ -170,3 +170,5 @@ And to figure out what the time on it mean if its just big one.
   So up to this I'd say you compare from and up to three years win in compression of how your ctrader robot functions.
 
    So if your order does not execute at high reward in minimal time in win with minimal drawdown/loss it is a bad luck - usually you'd say communism etc... So good luck finding the exact trade you are looking for or keep looking for medium spread - this is why there is leverage.
+  Most profit is at low capital, so why not use ticks on cryptocurrency as if it was or call out a meaning and all is good until You start sitting for it - Now we're talking me.
+  30% percent drawdown or loss is very high.
