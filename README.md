@@ -178,3 +178,4 @@ And to figure out what the time on it mean if its just big one.
   So all those reverse switches were worthless is what I was told all the time. when that major is the minor in backend marketing.
    Logics on Philadelphia. 
    Cryptocurrency simply switched the value on USD with less value, because of high capitalism, so the USD is the minor and cryptocurrency is the major in major market and that is mostly Studio, Gaming etc... So am saying that you are predicting the market when you know that you lose on 1month timeframe by changing simple definite values, how actual or real they are I do not know, you got to look at the logic to implement yourself for standard parameters to max out that do not really have complex.
+   So lets say you did not lose with those values for 3 years on minor/minor pair you good to go to Zimbabwe.
