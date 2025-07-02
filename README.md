@@ -168,3 +168,5 @@ And to figure out what the time on it mean if its just big one.
 
 
   So up to this I'd say you compare from and up to three years win in compression of how your ctrader robot functions.
+
+   So if your order does not execute at high reward in minimal time in win with minimal drawdown/loss it is a bad luck - usually you'd say communism etc... So good luck finding the exact trade you are looking for or keep looking for medium spread - this is why there is leverage.
