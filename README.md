@@ -170,5 +170,11 @@ And to figure out what the time on it mean if its just big one.
   So up to this I'd say you compare from and up to three years win in compression of how your ctrader robot functions.
 
    So if your order does not execute at high reward in minimal time in win with minimal drawdown/loss it is a bad luck - usually you'd say communism etc... So good luck finding the exact trade you are looking for or keep looking for medium spread - this is why there is leverage.
+
   Most profit is at low capital, so why not use ticks on cryptocurrency as if it was or call out a meaning and all is good until You start sitting for it - Now we're talking me.
   30% percent drawdown or loss is very high.
+
+  So I would max out the definite/like spread/slippage/threshold/timeframe 1month - heres the thing if you lose on 1month timeframe that is, because major/minor both in pair are below market demand as in pair. and compress the infinite and expand the ...
+  So all those reverse switches were worthless is what I was told all the time. when that major is the minor in backend marketing.
+   Logics on Philadelphia. 
+   Cryptocurrency simply switched the value on USD with less value, because of high capitalism, so the USD is the minor and cryptocurrency is the major in major market and that is mostly Studio, Gaming etc... So am saying that you are predicting the market when you know that you lose on 1month timeframe by changing simple definite values, how actual or real they are I do not know, you got to look at the logic to implement yourself for standard parameters to max out that do not really have complex.
